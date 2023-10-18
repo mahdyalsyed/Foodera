@@ -1,0 +1,40 @@
+header {
+    background: url(../../../images/3.jpg) center no-repeat;
+    background-size: cover;
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+    padding: 25px 0;
+}
+header .row {
+    margin: 50px 0;
+}
+header h2 {
+    font-size: 48px;
+    width: 80%;
+    margin: 20px 0;
+}
+
+header i {
+    margin: 20px 10px 20px 0;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+header i:last-of-type {
+    background: #fff;
+    color: #000;
+}
+header i:hover {
+    transition: 0.2s ease-in-out;
+}
+header i:first-of-type:hover {
+    background: #fff;
+    color: #ac2947;
+}
+header i:last-of-type:hover {
+    background: #ac2947;
+    color: #fff;
+}

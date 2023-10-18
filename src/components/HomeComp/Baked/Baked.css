@@ -1,0 +1,24 @@
+.baked {
+    background: url(../../../images/overlay.jpg) center no-repeat fixed;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding: 70px 0;
+    position: relative;
+    text-align: center;
+}
+.overlay {
+    background: #000;
+    opacity: 0.4;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+.baked h2 {
+    width: 100%;
+    font-size: 25px;
+    color: #fff;
+}

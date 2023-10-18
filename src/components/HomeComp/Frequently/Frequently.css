@@ -1,0 +1,19 @@
+.frequently {
+    height: auto;
+    text-align: start;
+}
+
+.frequently h2 {
+    font-size: 20px;
+    width: 100%;
+}
+
+.frequently h2 span {
+    color: #f98169;
+    font-size: 25px;
+    padding-right: 5px;
+}
+
+.frequently p {
+    width: 80%;
+}
